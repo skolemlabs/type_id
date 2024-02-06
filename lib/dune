@@ -1,0 +1,4 @@
+(library
+ (name type_id)
+ (public_name type_id)
+ (libraries type_eq))

@@ -1,0 +1,3 @@
+(test
+ (name type_id)
+ (libraries alcotest type_id))
